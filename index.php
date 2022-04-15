@@ -7,13 +7,10 @@
     <title>Document</title>
 </head>
 <body>
-<<<<<<< HEAD
     <p>lorem ipsum dolor siamet</p>
     <a href="tes">Ini percobaan</a>
-
-=======
     <p>anjer</p>
     <a href="asda">asdasdasdasd</a>
->>>>>>> 7a3fafadebbf83a490b776e685b04dd184303096
+
 </body>
 </html>
