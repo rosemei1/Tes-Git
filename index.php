@@ -8,5 +8,7 @@
 </head>
 <body>
     <p>lorem ipsum dolor siamet</p>
+    <a href="tes">Ini percobaan</a>
+
 </body>
 </html>
