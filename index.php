@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Tes</p>
+    <p>lorem ipsum dolor siamet</p>
 </body>
 </html>
